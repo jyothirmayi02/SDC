@@ -71,7 +71,7 @@ Chart.js (Data Visualization)
 
 **Author
 
-vasala akshaya
+B.Jyohtirmayi
 
 Passionate about full-stack development and building impactful projects with modern web technologies.
 
