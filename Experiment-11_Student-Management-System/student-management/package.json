@@ -1,0 +1,8 @@
+{
+  "name": "student-management",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-router-dom": "^7.6.2"
+  }
+}
